@@ -132,12 +132,25 @@ export default function Home() {
                   Nemo odio deleniti sint sapiente ratione quas labore eveniet
                   fugiat magnam?
                 </p>
-                <a href="#" className="card-link">
-                  Card link
-                </a>
-                <a href="#" className="card-link">
-                  Another link
-                </a>
+                <button className="btn text-white" style={{backgroundImage:"linear-gradient(#55038b, #9b108d)"}}><a href="https://portal.piaic.org/signup" style={{textDecoration:"none"}} className="text-white">Enroll Today</a></button>              </div>
+            </div>
+          </div>
+          <div className="col-md-3 my-2 my-md-0 ps-3 ps-md-0">
+            <div className="card" style={{ width: "21rem" }}>
+              <div className="card-body">
+                <h5 className="card-title py-3">
+                  Web 3.0 (Blockchain) and Metaverse Specialization
+                </h5>
+                <h6 className="card-subtitle mb-2 text-muted">Card subtitle</h6>
+                <p className="card-text">
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum
+                  sint error cupiditate odio, laudantium aperiam nisi
+                  praesentium obcaecati consequuntur maxime labore placeat
+                  recusandae, nemo dolorum sunt sapiente voluptatibus quisquam!
+                  Nemo odio deleniti sint sapiente ratione quas labore eveniet
+                  fugiat magnam?
+                </p>
+                <button className="btn text-white" style={{backgroundImage:"linear-gradient(#55038b, #9b108d)"}}><a href="https://portal.piaic.org/signup" style={{textDecoration:"none"}} className="text-white">Enroll Today</a></button>
               </div>
             </div>
           </div>
@@ -156,36 +169,7 @@ export default function Home() {
                   Nemo odio deleniti sint sapiente ratione quas labore eveniet
                   fugiat magnam?
                 </p>
-                <a href="#" className="card-link">
-                  Card link
-                </a>
-                <a href="#" className="card-link">
-                  Another link
-                </a>
-              </div>
-            </div>
-          </div>
-          <div className="col-md-3 my-2 my-md-0 ps-3 ps-md-0">
-            <div className="card" style={{ width: "21rem" }}>
-              <div className="card-body">
-                <h5 className="card-title py-3">
-                  Web 3.0 (Blockchain) and Metaverse Specialization
-                </h5>
-                <h6 className="card-subtitle mb-2 text-muted">Card subtitle</h6>
-                <p className="card-text">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum
-                  sint error cupiditate odio, laudantium aperiam nisi
-                  praesentium obcaecati consequuntur maxime labore placeat
-                  recusandae, nemo dolorum sunt sapiente voluptatibus quisquam!
-                  Nemo odio deleniti sint sapiente ratione quas labore eveniet
-                  fugiat magnam?
-                </p>
-                <a href="#" className="card-link">
-                  Card link
-                </a>
-                <a href="#" className="card-link">
-                  Another link
-                </a>
+                <button className="btn text-white" style={{backgroundImage:"linear-gradient(#55038b, #9b108d)"}}><a href="https://portal.piaic.org/signup" style={{textDecoration:"none"}} className="text-white">Enroll Today</a></button>
               </div>
             </div>
           </div>
